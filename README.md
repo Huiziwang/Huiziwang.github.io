@@ -10,5 +10,5 @@ Phone: 858-284-6479
 
 [Curriculum Vitae] (https://huiziwang.github.io/files/CV.pdf)
 
-[Research Statement] (https://huiziwang.github.io/files/Research Statement.pdf)
+[Research Statement] (https://huiziwang.github.io/files/Research_Statement.pdf)
 
