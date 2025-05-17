@@ -14,6 +14,8 @@ Phone: 858-284-6479
 
 ### Research Interests:
 
+High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics and Genomics; Machine Learning Algorithms for Sparse Data; Categorical Data Analysis; Statistical Machine Learning Applications.
+
 ### Publications:
 
 ### Works in Progress:
