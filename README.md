@@ -47,7 +47,7 @@ High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics
 
 - ["Simple, Computational Efficiency and Quality Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data" Poster Presentation, Department of Statistics 50th Anniversary Ceremony, Department of Statistics, Oklahoma State University (September 2024).](https://github.com/user-attachments/files/20270588/Poster.Department.Anniversary.pdf)
 
-- ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data" Student Talk, Conference on Applied Statistics in Agriculture and Natural Resources, Iowa State University (May 2024).]()
+- ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data" Student Talk, Conference on Applied Statistics in Agriculture and Natural Resources, Iowa State University (May 2024).](https://github.com/user-attachments/files/20270615/ISU_V2_Huizi.pdf)
  
 - ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data" Poster Presentation, Oklahoma Conference for Statistics, Biostatistics, and Data Science, The University of Oklahoma (October 2023).]()
 
