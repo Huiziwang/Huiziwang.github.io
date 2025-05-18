@@ -50,6 +50,12 @@ Graduate Research Assistant (Summer 2019 - Fall 2024)
 
 ### Teaching Assistant Experience:
 
+STAT 5063 Statistical Machine Learning with R (Spring 2024 - Spring 2025)
+
+STAT 5193 SAS and R Programming (Fall 2022 - Spring 2025)
+
+STAT 5543 Applied Regression Analysis (Fall 2018)
+
 
 
 ### Professional Activities:
