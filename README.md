@@ -4,7 +4,7 @@
 
 ![Image](https://github.com/user-attachments/assets/f7087c21-2cc8-4739-bb9b-7f74570139a3)
 
-### 👩‍🎓 Contact:
+### Contact:
 
 Email: huiwang@okstate.edu
 
@@ -22,17 +22,17 @@ Stillwater, OK, 74078
 
 [Research Statement](https://huiziwang.github.io/files/Research_Statement.pdf)
 
-### 📝 Research Interests:
+### Research Interests:
 
 High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics and Genomics; Machine Learning Algorithms for Sparse Data; Categorical Data Analysis; Statistical Machine Learning Applications.
 
-### 📄 Publications:
+### Publications:
 
 - [Bodaghi, S., Dang, T., Wang, H., Espindola, A. S., Craddock, I. L., Osman, F., Ribeiro, M., Nascimento, D. D., Mitra, A., Habiger, J., Cardwell, K. and Vidalakis, G. (2024). E-probes targeting citrus pathogens as a new diagnostic standard. Citrograph Magazine Archive - Citrus Research Board, Spring 2024 Issue Vol. 15, No. 2: 44-47.](https://citrus-research-board-static.sfo2.digitaloceanspaces.com/citrograph/pdf/CRB-Citrograph-Mag-Q2-Spring-2024-Web.pdf)
 
 - [Dang, T., Wang, H., Espindola, A. S., Habiger, J., Vidalakis, G., and Cardwell, K. (2023). Development and statistical validation of e-probe diagnostic nucleic acid analysis (EDNA) assays for the detection of citrus pathogens from raw high-throughput sequencing data. PhytoFrontiers™, 3(1), 113-123.](https://apsjournals.apsnet.org/doi/full/10.1094/PHYTOFR-05-22-0047-FI)
 
-### 📄 Works in Progress:
+### Works in Progress:
 
 - Nascimento, D. D., Bodaghi, S., Wang, H., Ribeiro, M., Campos, R., Dang, T., Osman, F., Habiger, J., Espindola, A. S., Vidalakis, G., and Cardwell, K. (2025). Development and validation of a suite of e-probes for electronic diagnostic nucleic acid analysis (EDNA) for 20 graft-transmissible pathogens of citrus using MiFi and blind ring testing among novice users. (Under Revision)
 
@@ -40,7 +40,7 @@ High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics
 
 - Statistical Methods for Pathogen Detection and E-probe Selection with Microbe Finder Data. (To be Submitted)
 
-### 🙋‍♀️ Invited Presentations:
+### Invited Presentations:
 
 - ["Efficient Classification Methods for Sparse High-Dimensional Count Data with Model Selection as Motivated by Microbe Finder" Dissertation Defense, Department of Statistics, Oklahoma State University (April 2025).](https://github.com/user-attachments/files/20270576/Qualifying_Exam_Slide_2.pdf)
 
@@ -49,7 +49,7 @@ High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics
 - ["Classification Methods for High-Dimensional Microbe Finder Data", NCCC170 Annual Meeting, Department of Statistics, Oklahoma State University (June 2022).](https://github.com/user-attachments/files/20270584/Conference.pdf)
 
 
-### 🙋‍♀️ Other Presentations:
+### Other Presentations:
 
 - ["Simple, Computational Efficiency and Quality Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data" Poster Presentation, Department of Statistics 50th Anniversary Ceremony, Department of Statistics, Oklahoma State University (September 2024).](https://github.com/user-attachments/files/20270588/Poster.Department.Anniversary.pdf)
 
@@ -59,11 +59,11 @@ High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics
 
 - ["Classification Methods for High-Dimensional Microbe Finder Data" Poster Presentation, Oklahoma Conference for Statistics, Biostatistics, and Data Science, The University of Oklahoma (October 2022).](https://github.com/user-attachments/files/20270623/Poster.New--OSU.Huizi.wang.pdf)
 
-### 🧬 Patent:
+### Patent:
 
 - [Cardwell, K. F., Espindola, A. S., Dang, T., Habiger, J. D., and Wang, H. (2023). System and method for interactive pathogen detection. US Patent No.: US20230360731A1.](https://patents.google.com/patent/US20230360731A1)
 
-### 🧬 Research Assistant Experience:
+### Research Assistant Experience:
 
 Graduate Research Assistant (Summer 2019 - Fall 2024)
 
@@ -73,7 +73,7 @@ Graduate Research Assistant (Summer 2019 - Fall 2024)
 
 - Responsibilities: Algorithm Developing; Data Generation; Data Curation; Statistical Validation; E-probe Design; E-probe Validation; Weekly Meeting.
 
-### 🧑🏻‍🏫 Teaching Assistant Experience:
+### Teaching Assistant Experience:
 
 STAT 5063 Statistical Machine Learning with R (Spring 2024 - Spring 2025)
 
@@ -81,7 +81,7 @@ STAT 5193 SAS and R Programming (Fall 2022 - Spring 2025)
 
 STAT 5543 Applied Regression Analysis (Fall 2018)
 
-### 🧬 Professional Activities:
+### Professional Activities:
 
 United States Department of Agriculture (USDA) Workshop (January 2023)
 
