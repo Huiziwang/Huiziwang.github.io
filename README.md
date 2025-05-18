@@ -22,13 +22,13 @@ High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics
 
 ### Publications:
 
-- [Bodaghi, S., Dang, T., Wang, H., Espindola, A. S., Craddock, I. L., Osman, F., Ribeiro, M., Nascimento, D. D., Mitra, A., Habiger, J., Cardwell, K. \& Vidalakis, G. (2024). E-probes targeting citrus pathogens as a new diagnostic standard. Citrograph Magazine Archive - Citrus Research Board, Spring 2024 Issue Vol. 15, No. 2: 44-47.](https://citrus-research-board-static.sfo2.digitaloceanspaces.com/citrograph/pdf/CRB-Citrograph-Mag-Q2-Spring-2024-Web.pdf)
+- [Bodaghi, S., Dang, T., Wang, H., Espindola, A. S., Craddock, I. L., Osman, F., Ribeiro, M., Nascimento, D. D., Mitra, A., Habiger, J., Cardwell, K. and Vidalakis, G. (2024). E-probes targeting citrus pathogens as a new diagnostic standard. Citrograph Magazine Archive - Citrus Research Board, Spring 2024 Issue Vol. 15, No. 2: 44-47.](https://citrus-research-board-static.sfo2.digitaloceanspaces.com/citrograph/pdf/CRB-Citrograph-Mag-Q2-Spring-2024-Web.pdf)
 
-- [Dang, T., Wang, H., Espindola, A. S., Habiger, J., Vidalakis, G., \& Cardwell, K. (2023). Development and statistical validation of e-probe diagnostic nucleic acid analysis (EDNA) assays for the detection of citrus pathogens from raw high-throughput sequencing data. PhytoFrontiers™, 3(1), 113-123.](https://apsjournals.apsnet.org/doi/full/10.1094/PHYTOFR-05-22-0047-FI)
+- [Dang, T., Wang, H., Espindola, A. S., Habiger, J., Vidalakis, G., and Cardwell, K. (2023). Development and statistical validation of e-probe diagnostic nucleic acid analysis (EDNA) assays for the detection of citrus pathogens from raw high-throughput sequencing data. PhytoFrontiers™, 3(1), 113-123.](https://apsjournals.apsnet.org/doi/full/10.1094/PHYTOFR-05-22-0047-FI)
 
 ### Works in Progress:
 
-- Nascimento, D. D., Bodaghi, S., Wang, H., Ribeiro, M., Campos, R., Dang, T., Osman, F., Habiger, J., Espindola, A. S., Vidalakis, G., \& Cardwell, K. (2025). Development and validation of a suite of e-probes for electronic diagnostic nucleic acid analysis (EDNA) for 20 graft-transmissible pathogens of citrus using MiFi and blind ring testing among novice users. (Under Revision)
+- Nascimento, D. D., Bodaghi, S., Wang, H., Ribeiro, M., Campos, R., Dang, T., Osman, F., Habiger, J., Espindola, A. S., Vidalakis, G., and Cardwell, K. (2025). Development and validation of a suite of e-probes for electronic diagnostic nucleic acid analysis (EDNA) for 20 graft-transmissible pathogens of citrus using MiFi and blind ring testing among novice users. (Under Revision)
 
 - Logistic Regression Models and Penalized Method of Moment Estimation for Sparse Count Data. (To be Submitted)
 
@@ -55,7 +55,7 @@ High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics
 
 ### Patent:
 
-- [Cardwell, K. F., Espindola, A. S., Dang, T., Habiger, J. D., \& Wang, H. (2023). System and method for interactive pathogen detection. US Patent No.: US20230360731A1.](https://patents.google.com/patent/US20230360731A1)
+- [Cardwell, K. F., Espindola, A. S., Dang, T., Habiger, J. D., and Wang, H. (2023). System and method for interactive pathogen detection. US Patent No.: US20230360731A1.](https://patents.google.com/patent/US20230360731A1)
 
 ### Research Assistant Experience:
 
