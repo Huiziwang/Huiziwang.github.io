@@ -11,7 +11,7 @@ Email: huiwang@okstate.edu
 
 Phone: 858-284-6479
 
-[Curriculum Vitae]()
+[Curriculum Vitae](https://github.com/user-attachments/files/20270045/Huizi_s_CV3.pdf)
 
 [Research Statement](https://huiziwang.github.io/files/Research_Statement.pdf)
 
