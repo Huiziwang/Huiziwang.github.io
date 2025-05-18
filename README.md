@@ -28,7 +28,7 @@ High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics
 
 ### Works in Progress:
 
-- Nascimento, D. D., Bodaghi, S., Wang, H., Ribeiro, M., Campos, R., Dang, T., Osman, F., Habiger, J., Espindola, A. S., Vidalakis, G., \& Cardwell, K. (2025). Development and validation of a suite of e-probes for electronic diagnostic nucleic acid analysis (EDNA) for 20 graft-transmissible pathogens of citrus using MiFi$\textsuperscript{\tiny{\circledR}}$ and blind ring testing among novice users. (Under Revision)
+- Nascimento, D. D., Bodaghi, S., Wang, H., Ribeiro, M., Campos, R., Dang, T., Osman, F., Habiger, J., Espindola, A. S., Vidalakis, G., \& Cardwell, K. (2025). Development and validation of a suite of e-probes for electronic diagnostic nucleic acid analysis (EDNA) for 20 graft-transmissible pathogens of citrus using MiFi and blind ring testing among novice users. (Under Revision)
 
 - Logistic Regression Models and Penalized Method of Moment Estimation for Sparse Count Data. (To be Submitted)
 
