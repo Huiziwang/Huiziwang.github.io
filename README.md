@@ -4,7 +4,7 @@
 
 ![Image](https://github.com/user-attachments/assets/f7087c21-2cc8-4739-bb9b-7f74570139a3)
 
-### Contact:
+### :dog: Contact:
 
 Email: huiwang@okstate.edu
 
