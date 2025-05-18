@@ -53,11 +53,11 @@ High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics
 
 - ["Classification Methods for High-Dimensional Microbe Finder Data" Poster Presentation, Oklahoma Conference for Statistics, Biostatistics, and Data Science, The University of Oklahoma (October 2022).](https://github.com/user-attachments/files/20270623/Poster.New--OSU.Huizi.wang.pdf)
 
-### Patent:
+### :dna: Patent:
 
 - [Cardwell, K. F., Espindola, A. S., Dang, T., Habiger, J. D., and Wang, H. (2023). System and method for interactive pathogen detection. US Patent No.: US20230360731A1.](https://patents.google.com/patent/US20230360731A1)
 
-### Research Assistant Experience:
+### :dna: Research Assistant Experience:
 
 Graduate Research Assistant (Summer 2019 - Fall 2024)
 
