@@ -26,7 +26,7 @@ High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics
 
 - [Dang, T., Wang, H., Espindola, A. S., Habiger, J., Vidalakis, G., and Cardwell, K. (2023). Development and statistical validation of e-probe diagnostic nucleic acid analysis (EDNA) assays for the detection of citrus pathogens from raw high-throughput sequencing data. PhytoFrontiers™, 3(1), 113-123.](https://apsjournals.apsnet.org/doi/full/10.1094/PHYTOFR-05-22-0047-FI)
 
-### Works in Progress:
+### :bookmark_tabs: Works in Progress:
 
 - Nascimento, D. D., Bodaghi, S., Wang, H., Ribeiro, M., Campos, R., Dang, T., Osman, F., Habiger, J., Espindola, A. S., Vidalakis, G., and Cardwell, K. (2025). Development and validation of a suite of e-probes for electronic diagnostic nucleic acid analysis (EDNA) for 20 graft-transmissible pathogens of citrus using MiFi and blind ring testing among novice users. (Under Revision)
 
