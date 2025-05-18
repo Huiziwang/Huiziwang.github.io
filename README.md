@@ -67,11 +67,13 @@ High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics
 
 Graduate Research Assistant (Summer 2019 - Fall 2024)
 
+- Project: Pathogen Detection for Citrus using Microbe Finder.
+
 - Supervisor: Dr. Kitty Cardwell, United States Department of Agriculture (USDA) National Plant Health Champion and Director of the Institute for Biosecurity and Microbial Forensics (IBMF) at Oklahoma State University (Emerita).
 
-- Role: Statistician on a research team that includes professors and students from Oklahoma State University and the University of California, Riverside.
+- Role: The lead statistician for an interdisciplinary research team including professors and students from Oklahoma State University and the University of California, Riverside.
 
-- Responsibilities: Algorithm Developing; Data Generation; Data Curation; Statistical Validation; E-probe Design; E-probe Validation; Weekly Meeting.
+- Responsibilities: Algorithm Development; Data Generation; Data Curation; Statistical Analysis and Validation; E-probe Design; E-probe Validation; Weekly Meeting.
 
 ### Teaching Assistant Experience:
 
