@@ -1,6 +1,7 @@
 # Huizi Wang 
 
 ## $${\color{Orange}PhD \space Candidate, \space Department \space of \space Statistics, \space Oklahoma \space State \space University}$$
+<code style="color : Darkorange">PhD Candidate, Department of Statistics, Oklahoma State University</code>
 
 ![Image](https://github.com/user-attachments/assets/f7087c21-2cc8-4739-bb9b-7f74570139a3)
 
