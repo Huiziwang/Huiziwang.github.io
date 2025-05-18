@@ -10,7 +10,7 @@ Email: huiwang@okstate.edu
 
 Phone: 858-284-6479
 
-320B MSCS Bldg 
+320B MSCS 
 
 Department of Statistics
 
