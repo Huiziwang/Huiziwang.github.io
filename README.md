@@ -12,7 +12,7 @@ Phone: 858-284-6479
 
 320B MSCS Bldg, Department of Statistics, Oklahoma State University, Stillwater, OK, 74078
 
-[Curriculum Vitae](Huizi_s_CV3.pdf)
+[Curriculum Vitae](https://github.com/user-attachments/files/20270045/Huizi_s_CV3.pdf)
 
 [Research Statement](https://huiziwang.github.io/files/Research_Statement.pdf)
 
