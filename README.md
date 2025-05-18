@@ -24,7 +24,7 @@ Stillwater, OK, 74078
 
 ### Research Interests:
 
-High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics and Genomics; Machine Learning Algorithms for Sparse Data; Categorical Data Analysis; Statistical Machine Learning Applications.
+High-Dimensional Classification Analysis; Statistical Methods for Genomics; Bioinformatics; Machine Learning Algorithms for Sparse Data; Categorical Data Analysis; Statistical Machine Learning Applications.
 
 ### Publications:
 
