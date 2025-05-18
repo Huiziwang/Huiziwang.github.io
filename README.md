@@ -56,7 +56,10 @@ STAT 5193 SAS and R Programming (Fall 2022 - Spring 2025)
 
 STAT 5543 Applied Regression Analysis (Fall 2018)
 
-
-
 ### Professional Activities:
 
+United States Department of Agriculture (USDA) Workshop (January 2023)
+
+- Role: Statistic instructor for this one-week workshop.
+
+- Responsibilities: Give tutorials for R scripts for pathogen detection to USDA-APHIS: Plant Protection and Quarantine employees.
