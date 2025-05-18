@@ -1,7 +1,7 @@
 # Huizi Wang 
 ## PhD Candidate, Department of Statistics, Oklahoma State University
 
-![alt text](https://huiziwang.github.io/photos/1.png)
+![](https://huiziwang.github.io/photos/1.png)
 
 ### Contact:
 
