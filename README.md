@@ -38,7 +38,7 @@ High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics
 
 - ["Efficient Classification Methods for Sparse High-Dimensional Count Data with Model Selection as Motivated by Microbe Finder" Dissertation Defense, Department of Statistics, Oklahoma State University (April 2025).](https://github.com/user-attachments/files/20270133/Qualifying_Exam_Slide_2.pdf)
 
-- ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data", Department of Statistics, Oklahoma State University (April 2024).](file:///Users/wanghuizi/Desktop/PostDoc/Presentations/Seminar_Fall_2024.pdf)
+- ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data", Department of Statistics, Oklahoma State University (April 2024)](file:///Users/wanghuizi/Desktop/PostDoc/Presentations/Seminar_Fall_2024.pdf)
 
 - ["Classification Methods for High-Dimensional Microbe Finder Data", NCCC170 Annual Meeting, Department of Statistics, Oklahoma State University (June 2022).]()
 
