@@ -45,6 +45,14 @@ High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics
 
 ### Other Presentations:
 
+- ["Simple, Computational Efficiency and Quality Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data" Poster Presentation, Department of Statistics 50th Anniversary Ceremony, Department of Statistics, Oklahoma State University (September 2024).]()
+
+- ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data" Student Talk, Conference on Applied Statistics in Agriculture and Natural Resources, Iowa State University (May 2024).]()
+ 
+- ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data" Poster Presentation, Oklahoma Conference for Statistics, Biostatistics, and Data Science, The University of Oklahoma (October 2023).]()
+
+- ["Classification Methods for High-Dimensional Microbe Finder Data" Poster Presentation, Oklahoma Conference for Statistics, Biostatistics, and Data Science, The University of Oklahoma (October 2022).]()
+
 ### Patent:
 
 - [Cardwell, K. F., Espindola, A. S., Dang, T., Habiger, J. D., \& Wang, H. (2023). System and method for interactive pathogen detection. US Patent No.: US20230360731A1.](https://patents.google.com/patent/US20230360731A1)
