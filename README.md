@@ -40,7 +40,7 @@ High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics
 
 ### Research Assistant Experience:
 
-Graduate Research Assistant
+Graduate Research Assistant (Summer 2019 - Fall 2024)
 
 - Supervisor: Dr. Kitty Cardwell, United States Department of Agriculture (USDA) National Plant Health Champion and Director of the Institute for Biosecurity and Microbial Forensics (IBMF) at Oklahoma State University (Emerita).
 
@@ -49,6 +49,8 @@ Graduate Research Assistant
 - Responsibilities: Algorithm Developing; Data Generation; Data Curation; Statistical Validation; E-probe Design; E-probe Validation; Weekly Meeting.
 
 ### Teaching Assistant Experience:
+
+
 
 ### Professional Activities:
 
