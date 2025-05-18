@@ -1,7 +1,6 @@
 # Huizi Wang 
 
-## <color> PhD Candidate, Department of Statistics, Oklahoma State University </color>
-<code style="color : Aqua">PhD Candidate, Department of Statistics, Oklahoma State University</code>
+## PhD Candidate, Department of Statistics, Oklahoma State University
 
 ![Image](https://github.com/user-attachments/assets/f7087c21-2cc8-4739-bb9b-7f74570139a3)
 
