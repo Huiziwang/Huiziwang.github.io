@@ -1,5 +1,8 @@
 # Huizi Wang 
 ## PhD Candidate, Department of Statistics, Oklahoma State University
+
+![alt text](https://huiziwang.github.io/photos/1.png)
+
 ### Contact:
 
 320B MSCS Bldg, Department of Statistics, Oklahoma State University, Stillwater, OK, 74078
