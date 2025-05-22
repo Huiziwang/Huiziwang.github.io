@@ -2,7 +2,7 @@
 
 ## PhD Candidate, Department of Statistics, Oklahoma State University
 
-![Image](https://github.com/user-attachments/assets/4fc5042c-db59-49bc-88df-681c24e02a81)
+![Image](https://github.com/user-attachments/assets/71ed9857-1079-4878-a007-2f79afd3a921)
 
 ### Contact:
 
