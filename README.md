@@ -26,6 +26,10 @@ Stillwater, OK, 74078
 
 High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics and Genomics; Machine Learning Algorithms for Sparse Data; Categorical Data Analysis; Statistical Machine Learning Applications.
 
+### Patent:
+
+- [Cardwell, K. F., Espindola, A. S., Dang, T., Habiger, J. D., and Wang, H. (2023). System and method for interactive pathogen detection. US Patent No.: US20230360731A1.](https://patents.google.com/patent/US20230360731A1)
+
 ### Publications:
 
 - [Bodaghi, S., Dang, T., Wang, H., Espindola, A. S., Craddock, I. L., Osman, F., Ribeiro, M., Nascimento, D. D., Mitra, A., Habiger, J., Cardwell, K. and Vidalakis, G. (2024). E-probes targeting citrus pathogens as a new diagnostic standard. Citrograph Magazine Archive - Citrus Research Board, Spring 2024 Issue Vol. 15, No. 2: 44-47.](https://citrus-research-board-static.sfo2.digitaloceanspaces.com/citrograph/pdf/CRB-Citrograph-Mag-Q2-Spring-2024-Web.pdf)
@@ -58,10 +62,6 @@ High-Dimensional Classification Analysis; Statistical Methods for Bioinformatics
 - ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data" Poster Presentation, Oklahoma Conference for Statistics, Biostatistics, and Data Science, The University of Oklahoma (October 2023).](https://github.com/user-attachments/files/20270622/Poster--OSU.Huizi.wang.2023.pdf)
 
 - ["Classification Methods for High-Dimensional Microbe Finder Data" Poster Presentation, Oklahoma Conference for Statistics, Biostatistics, and Data Science, The University of Oklahoma (October 2022).](https://github.com/user-attachments/files/20270623/Poster.New--OSU.Huizi.wang.pdf)
-
-### Patent:
-
-- [Cardwell, K. F., Espindola, A. S., Dang, T., Habiger, J. D., and Wang, H. (2023). System and method for interactive pathogen detection. US Patent No.: US20230360731A1.](https://patents.google.com/patent/US20230360731A1)
 
 ### Research Assistant Experience:
 
