@@ -20,7 +20,7 @@ Stillwater, OK, 74078
 
 [Curriculum Vitae](https://github.com/user-attachments/files/20661327/Huizi_s_CV4.pdf)
 
-[Research Statement](https://huiziwang.github.io/files/Research_Statement.pdf)
+[Research Statement](https://github.com/user-attachments/files/20661339/Research_Statement_V4.pdf)
 
 ### Research Interests:
 
