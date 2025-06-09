@@ -47,24 +47,22 @@ High-Dimensional Classification Methods and Analysis; Statistical Methods for Bi
 
 - Wang, H. and Habiger, J., Classification Methods with the Sparse Group Lasso for Pathogen Detection and E-probe Selection with Microbe Finder Data. (Initialization)
 
-### Invited Presentations:
-
-- ["Efficient Classification Methods for Sparse High-Dimensional Count Data with Model Selection as Motivated by Microbe Finder" Dissertation Defense, Department of Statistics, Oklahoma State University (April 2025).](https://github.com/user-attachments/files/20270576/Qualifying_Exam_Slide_2.pdf)
-
-- ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data", Department of Statistics, Oklahoma State University (April 2024).](https://github.com/user-attachments/files/20270582/Seminar_Fall_2024.pdf)
-
-- ["Classification Methods for High-Dimensional Microbe Finder Data", NCCC170 Annual Meeting, Department of Statistics, Oklahoma State University (June 2022).](https://github.com/user-attachments/files/20270584/Conference.pdf)
-
-
-### Other Presentations:
-
+### Presentations:
+Conferences
 - ["Simple, Computational Efficiency and Quality Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data" Poster Presentation, Department of Statistics 50th Anniversary Ceremony, Department of Statistics, Oklahoma State University (September 2024).](https://github.com/user-attachments/files/20270588/Poster.Department.Anniversary.pdf)
 
 - ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data" Student Talk, Conference on Applied Statistics in Agriculture and Natural Resources, Iowa State University (May 2024).](https://github.com/user-attachments/files/20270615/ISU_V2_Huizi.pdf)
- 
+
 - ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data" Poster Presentation, Oklahoma Conference for Statistics, Biostatistics, and Data Science, The University of Oklahoma (October 2023).](https://github.com/user-attachments/files/20270622/Poster--OSU.Huizi.wang.2023.pdf)
 
 - ["Classification Methods for High-Dimensional Microbe Finder Data" Poster Presentation, Oklahoma Conference for Statistics, Biostatistics, and Data Science, The University of Oklahoma (October 2022).](https://github.com/user-attachments/files/20270623/Poster.New--OSU.Huizi.wang.pdf)
+
+- ["Classification Methods for High-Dimensional Microbe Finder Data", NCCC170 Annual Meeting, Department of Statistics, Oklahoma State University (June 2022).](https://github.com/user-attachments/files/20270584/Conference.pdf)
+
+Seminars
+- ["Efficient Classification Methods for Sparse High-Dimensional Count Data with Model Selection as Motivated by Microbe Finder" Dissertation Defense, Department of Statistics, Oklahoma State University (April 2025).](https://github.com/user-attachments/files/20270576/Qualifying_Exam_Slide_2.pdf)
+
+- ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data", Department of Statistics, Oklahoma State University (April 2024).](https://github.com/user-attachments/files/20270582/Seminar_Fall_2024.pdf)
 
 ### Research Experience:
 
