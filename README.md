@@ -60,9 +60,9 @@ Conferences
 - ["Classification Methods for High-Dimensional Microbe Finder Data", Invited Talk, NCCC170 Annual Meeting, Oklahoma State University (June 2022).](https://github.com/user-attachments/files/20270584/Conference.pdf)
 
 Seminars
-- ["Efficient Classification Methods for Sparse High-Dimensional Count Data with Model Selection as Motivated by Microbe Finder" Dissertation Defense, Department of Statistics, Oklahoma State University (April 2025).](https://github.com/user-attachments/files/20270576/Qualifying_Exam_Slide_2.pdf)
+- ["Efficient Classification Methods for Sparse High-Dimensional Count Data with Model Selection as Motivated by Microbe Finder", Dissertation Defense, Department of Statistics, Oklahoma State University (April 2025).](https://github.com/user-attachments/files/20270576/Qualifying_Exam_Slide_2.pdf)
 
-- ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data", Department of Statistics, Oklahoma State University (April 2024).](https://github.com/user-attachments/files/20270582/Seminar_Fall_2024.pdf)
+- ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data", Invited Talk, Department of Statistics, Oklahoma State University (April 2024).](https://github.com/user-attachments/files/20270582/Seminar_Fall_2024.pdf)
 
 ### Research Experience:
 
