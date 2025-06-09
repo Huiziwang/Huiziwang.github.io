@@ -95,7 +95,7 @@ Graduate Teaching Assistant (August 2018 - May 2025)
 
 - Responsibilities: Making Keys for Homework Assignments; Grading for Homework Assignments; Providing Feedback for Homework Assignments; Project Assessment.
 
-Core Courses Taught
+- Core Courses Taught
 
 STAT 5063 Statistical Machine Learning with R (Spring 2024 - Spring 2025)
 
