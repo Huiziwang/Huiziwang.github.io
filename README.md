@@ -30,7 +30,7 @@ High-Dimensional Classification Methods and Analysis; Statistical Methods for Bi
 
 Efficient Classification Methods for Sparse High-Dimensional Count Data with Model Selection as Motivated by Microbe Finder
 
-- Provide new methods for high-dimensional (HD) classification analysis with count data that are computationally efficient, can model zero-inflation and over-dispersion, and allow for model and/or variable selection while avoiding overfitting. (No one method addresses all of these issues simultaneously.)
+- Provide new methods for high-dimensional classification analysis with count data that are computationally efficient, can model zero-inflation and over-dispersion, and allow for model and/or variable selection while avoiding overfitting. (No one method addresses all of these issues simultaneously.)
 
 - Advisor: Dr. Joshua D Habiger.
 
