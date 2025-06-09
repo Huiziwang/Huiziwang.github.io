@@ -26,6 +26,14 @@ Stillwater, OK, 74078
 
 High-Dimensional Classification Methods and Analysis; Statistical Methods for Bioinformatics and Genomics; Machine Learning Algorithms for Sparse Data; Categorical and Next-Generation Sequencing Data Analysis; Statistical Machine Learning Applications; High-Throughput Sequence Diagnostics.
 
+### Dissertation: 
+
+Efficient Classification Methods for Sparse High-Dimensional Count Data with Model Selection as Motivated by Microbe Finder
+
+- Provide new methods for high-dimensional (HD) classification analysis with count data that are computationally efficient, can model zero-inflation and over-dispersion, and allow for model and/or variable selection while avoiding overfitting. (No one method addresses all of these issues simultaneously.)
+
+- Advisor: Dr. Joshua D Habiger.
+
 ### Patent:
 
 - [Cardwell, K. F., Espindola, A. S., Dang, T., Habiger, J. D., and Wang, H. (2023). System and method for interactive pathogen detection. US Patent No.: US20230360731A1.](https://patents.google.com/patent/US20230360731A1)
@@ -68,39 +76,3 @@ Seminars
 
 - ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data", Invited Talk, Department of Statistics, Oklahoma State University (April 2024).](https://github.com/user-attachments/files/20270582/Seminar_Fall_2024.pdf)
 
-### Research Experience:
-
-Dissertation: Efficient Classification Methods for Sparse High-Dimensional Count Data with Model Selection as Motivated by Microbe Finder. (May 2021 - Present) 
-
-- Provide new methods for high-dimensional (HD) classification analysis with count data that are computationally efficient, can model zero-inflation and over-dispersion, and allow for model and/or variable selection while avoiding overfitting. (No one method addresses all of these issues simultaneously.)
-
-- Advisor: Dr. Joshua D Habiger
-
-
-Graduate Research Assistant (May 2019 - December 2024)
-
-- Project: E-probes Targeting Citrus Pathogens that was funded by the United States Department of Agriculture (USDA).
-
-- Supervisor: Dr. Kitty Cardwell, USDA National Plant Health Champion and Director of the Institute for Biosecurity and Microbial Forensics (IBMF) at Oklahoma State University (Emerita).
-
-- Role: The lead statistician for an interdisciplinary research team including professors and students from Oklahoma State University and the University of California, Riverside 
-- Responsibilities: Algorithm Development; Data Generation; Data Curation; Statistical Analysis and Validation; E-probe Design; E-probe Validation; Mentored Student; Weekly Meeting.
-
-### Teaching Experience:
-
-Graduate Teaching Assistant (August 2018 - May 2025)
-
-- Core Courses Taught: STAT 5063 Statistical Machine Learning with R; STAT 5193 SAS and R Programming; STAT 5543 Applied Regression Analysis.
-
-- Role: Instructor for two office hour sections.
-
-- Responsibilities: Made Keys for Homework Assignments; Graded and Provided Feedback for Homework Assignments; Project Assessment.
-
-
-Workshop Instructor (January 2022 - July 2024)
-
-- Workshop Names: USDA-APHIS: PPQ; PFI-TT: Strengthening Agriculture Through Better Disease Detection.
-
-- Role: Statistic instructor for one-week workshops.
-
-- Responsibilities: Taught Employees of USDA-APHIS: PPQ; Tutored and Mentored Students; Developed Instructional Materials.
