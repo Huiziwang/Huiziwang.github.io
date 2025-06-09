@@ -39,13 +39,17 @@ High-Dimensional Classification Methods and Analysis; Statistical Methods for Bi
 
 ### Works in Progress:
 
-- Wang, H. and Habiger, J., Logistic Regression Models and Penalized Method of Moment Estimation for Sparse Count Data. (To be Submitted)
+To be Submitted
 
-- Wang, H. and Habiger, J., Statistical Methods for Pathogen Detection and E-probe Selection with Microbe Finder Data. (To be Submitted)
+- Wang, H. and Habiger, J., Logistic Regression Models and Penalized Method of Moment Estimation for Sparse Count Data.
 
-- Wang, H. and Habiger, J., Efficient Classification Methods for Pathogen Detection with E-probe Selection (ECMEpS) (R package). (Initialization)
+- Wang, H. and Habiger, J., Statistical Methods for Pathogen Detection and E-probe Selection with Microbe Finder Data.
 
-- Wang, H. and Habiger, J., Classification Methods with the Sparse Group Lasso for Pathogen Detection and E-probe Selection with Microbe Finder Data. (Initialization)
+Initialization
+
+- Wang, H. and Habiger, J., Efficient Classification Methods for Pathogen Detection with E-probe Selection (ECMEpS) (R package). 
+
+- Wang, H. and Habiger, J., Classification Methods with the Sparse Group Lasso for Pathogen Detection and E-probe Selection with Microbe Finder Data.
 
 ### Presentations:
 Conferences
