@@ -79,12 +79,11 @@ Dissertation: Efficient Classification Methods for Sparse High-Dimensional Count
 
 Graduate Research Assistant (May 2019 - December 2024)
 
-- Project: E-probes Targeting Citrus Pathogens.
+- Project: E-probes Targeting Citrus Pathogens that was funded by the United States Department of Agriculture (USDA).
 
-- Supervisor: Dr. Kitty Cardwell, United States Department of Agriculture (USDA) National Plant Health Champion and Director of the Institute for Biosecurity and Microbial Forensics (IBMF) at Oklahoma State University (Emerita).
+- Supervisor: Dr. Kitty Cardwell, USDA National Plant Health Champion and Director of the Institute for Biosecurity and Microbial Forensics (IBMF) at Oklahoma State University (Emerita).
 
-- Role: The lead statistician for an interdisciplinary research team including professors and students from Oklahoma State University and the University of California, Riverside that was funded by USDA.
-
+- Role: The lead statistician for an interdisciplinary research team including professors and students from Oklahoma State University and the University of California, Riverside 
 - Responsibilities: Algorithm Development; Data Generation; Data Curation; Statistical Analysis and Validation; E-probe Design; E-probe Validation; Mentored Student; Weekly Meeting.
 
 ### Teaching Experience:
