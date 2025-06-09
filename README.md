@@ -85,7 +85,7 @@ Graduate Research Assistant (May 2019 - December 2024)
 
 - Role: Served as the lead statistician for an interdisciplinary research team including professors and students from Oklahoma State University and the University of California, Riverside that was funded by USDA.
 
-- Responsibilities: Algorithm Development; Data Generation; Data Curation; Statistical Analysis and Validation; E-probe Design; E-probe Validation; Mentoring Student; Weekly Meeting.
+- Responsibilities: Algorithm Development; Data Generation; Data Curation; Statistical Analysis and Validation; E-probe Design; E-probe Validation; Mentored Student; Weekly Meeting.
 
 ### Teaching Experience:
 
@@ -95,11 +95,11 @@ Graduate Teaching Assistant (August 2018 - May 2025)
 
 - Role: Served as instructor for two office hour sections.
 
-- Responsibilities: Making Keys for Homework Assignments; Grading for Homework Assignments; Providing Feedback for Homework Assignments; Project Assessment.
+- Responsibilities: Made Keys for Homework Assignments; Graded and Provided Feedback for Homework Assignments; Project Assessment.
 
 
 Workshop Instructor (January 2022 - July 2024)
 
 - Role: Statistic instructor for one-week workshops.
 
-- Responsibilities: Teaching Employees of USDA-APHIS: PPQ; Tutoring and Mentoring Students; Developing Instructional Materials.
+- Responsibilities: Taught Employees of USDA-APHIS: PPQ; Tutored and Mentored Students; Developed Instructional Materials.
