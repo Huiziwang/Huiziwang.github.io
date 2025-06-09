@@ -83,7 +83,7 @@ Graduate Research Assistant (May 2019 - December 2024)
 
 - Supervisor: Dr. Kitty Cardwell, United States Department of Agriculture (USDA) National Plant Health Champion and Director of the Institute for Biosecurity and Microbial Forensics (IBMF) at Oklahoma State University (Emerita).
 
-- Role: Served as the lead statistician for an interdisciplinary research team including professors and students from Oklahoma State University and the University of California, Riverside that was funded by USDA.
+- Role: The lead statistician for an interdisciplinary research team including professors and students from Oklahoma State University and the University of California, Riverside that was funded by USDA.
 
 - Responsibilities: Algorithm Development; Data Generation; Data Curation; Statistical Analysis and Validation; E-probe Design; E-probe Validation; Mentored Student; Weekly Meeting.
 
@@ -93,12 +93,14 @@ Graduate Teaching Assistant (August 2018 - May 2025)
 
 - Core Courses Taught: STAT 5063 Statistical Machine Learning with R; STAT 5193 SAS and R Programming; STAT 5543 Applied Regression Analysis.
 
-- Role: Served as instructor for two office hour sections.
+- Role: Instructor for two office hour sections.
 
 - Responsibilities: Made Keys for Homework Assignments; Graded and Provided Feedback for Homework Assignments; Project Assessment.
 
 
 Workshop Instructor (January 2022 - July 2024)
+
+- Workshop Names: USDA-APHIS: PPQ; PFI-TT: Strengthening Agriculture Through Better Disease Detection.
 
 - Role: Statistic instructor for one-week workshops.
 
