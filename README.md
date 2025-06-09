@@ -65,17 +65,33 @@ Seminars
 - ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data", Invited Talk, Department of Statistics, Oklahoma State University (April 2024).](https://github.com/user-attachments/files/20270582/Seminar_Fall_2024.pdf)
 
 ### Research Experience:
+
 Dissertation: Efficient Classification Methods for Sparse High-Dimensional Count Data with Model Selection as Motivated by Microbe Finder. (May 2021 - Present) 
+
 - Provide new methods for high-dimensional (HD) classification analysis with count data that are computationally efficient, can model zero-inflation and over-dispersion, and allow for model and/or variable selection while avoiding overfitting. (No one method addresses all of these issues simultaneously.)
+
 - Advisor: Dr. Joshua D Habiger
 
-Graduate Research Assistant (May 2019 - December 2024)
-- Project: E-probes Targeting Citrus Pathogens.
-- Supervisor: Dr. Kitty Cardwell, United States Department of Agriculture (USDA) National Plant Health Champion and Director of the Institute for Biosecurity and Microbial Forensics (IBMF) at Oklahoma State University (Emerita).
-- Role: Served as the lead statistician for an interdisciplinary research team including professors and students from Oklahoma State University and the University of California, Riverside that was funded by USDA.
-- Responsibilities: Algorithm Development; Data Generation; Data Curation; Statistical Analysis and Validation; E-probe Design; E-probe Validation; Weekly Meeting.
 
-### Teaching Assistant Experience:
+Graduate Research Assistant (May 2019 - December 2024)
+
+- Project: E-probes Targeting Citrus Pathogens.
+
+- Supervisor: Dr. Kitty Cardwell, United States Department of Agriculture (USDA) National Plant Health Champion and Director of the Institute for Biosecurity and Microbial Forensics (IBMF) at Oklahoma State University (Emerita).
+
+- Role: Served as the lead statistician for an interdisciplinary research team including professors and students from Oklahoma State University and the University of California, Riverside that was funded by USDA.
+
+- Responsibilities: Algorithm Development; Data Generation; Data Curation; Statistical Analysis and Validation; E-probe Design; E-probe Validation; Mentoring Student; Weekly Meeting.
+
+### Teaching Experience:
+
+Graduate Teaching Assistant (August 2018 - May 2025)
+
+- Role: Served as instructor for two office hour sections.
+
+- Responsibilities: Making Keys for Homework Assignments; Grading for Homework Assignments; Providing Feedback for Homework Assignments; Project Assessment.
+
+Core Courses Taught
 
 STAT 5063 Statistical Machine Learning with R (Spring 2024 - Spring 2025)
 
@@ -83,10 +99,9 @@ STAT 5193 SAS and R Programming (Fall 2022 - Spring 2025)
 
 STAT 5543 Applied Regression Analysis (Fall 2018)
 
-### Professional Activities:
 
-United States Department of Agriculture (USDA) Workshop (January 2023)
+Workshop Instructor (January 2022 - July 2024)
 
-- Role: Statistic instructor for this one-week workshop.
+- Role: Statistic instructor for one-week workshops.
 
-- Responsibilities: Give tutorials for R scripts for pathogen detection to USDA-APHIS: Plant Protection and Quarantine employees.
+- Responsibilities: Teaching Employees of USDA-APHIS: PPQ; Tutoring and Mentoring Students; Developing Instructional Materials.
