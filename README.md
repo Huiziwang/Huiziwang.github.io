@@ -91,17 +91,11 @@ Graduate Research Assistant (May 2019 - December 2024)
 
 Graduate Teaching Assistant (August 2018 - May 2025)
 
+- Core Courses Taught: STAT 5063 Statistical Machine Learning with R; STAT 5193 SAS and R Programming; STAT 5543 Applied Regression Analysis.
+
 - Role: Served as instructor for two office hour sections.
 
 - Responsibilities: Making Keys for Homework Assignments; Grading for Homework Assignments; Providing Feedback for Homework Assignments; Project Assessment.
-
-- Core Courses Taught
-
-STAT 5063 Statistical Machine Learning with R (Spring 2024 - Spring 2025)
-
-STAT 5193 SAS and R Programming (Fall 2022 - Spring 2025)
-
-STAT 5543 Applied Regression Analysis (Fall 2018)
 
 
 Workshop Instructor (January 2022 - July 2024)
