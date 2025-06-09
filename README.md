@@ -38,11 +38,13 @@ High-Dimensional Classification Methods and Analysis; Statistical Methods for Bi
 
 ### Works in Progress:
 
-- Nascimento, D. D., Bodaghi, S., Wang, H., Ribeiro, M., Campos, R., Dang, T., Osman, F., Habiger, J., Espindola, A. S., Vidalakis, G., and Cardwell, K. (2025). Development and validation of a suite of e-probes for electronic diagnostic nucleic acid analysis (EDNA) for 20 graft-transmissible pathogens of citrus using MiFi and blind ring testing among novice users. (Under Revision)
+- \textbf{Wang, H.} \& Habiger, J., Logistic Regression Models and Penalized Method of Moment Estimation for Sparse Count Data. (To be Submitted)
 
-- Logistic Regression Models and Penalized Method of Moment Estimation for Sparse Count Data. (To be Submitted)
+- \textbf{Wang, H.} \& Habiger, J., Statistical Methods for Pathogen Detection and E-probe Selection with Microbe Finder Data. (To be Submitted)
 
-- Statistical Methods for Pathogen Detection and E-probe Selection with Microbe Finder Data. (To be Submitted)
+- \textbf{Wang, H.} \& Habiger, J., Efficient Classification Methods for Pathogen Detection with E-probe Selection (ECMEpS) (R package). (Initialization)
+
+- \textbf{Wang, H.} \& Habiger, J., Classification Methods with the Sparse Group Lasso for Pathogen Detection and E-probe Selection with Microbe Finder Data. (Initialization)
 
 ### Invited Presentations:
 
