@@ -57,7 +57,7 @@ To be Submitted
 
 Initialization
 
-- Wang, H. and Habiger, J., Classification Methods with the Sparse Group Lasso Model for Pathogen Detection and Variable Selection for Sparse Count Data.
+- Wang, H. and Habiger, J., Classification Methods with the Sparse Group Lasso Model for Pathogen Detection and Variable Selection with Sparse Count Data.
 
 ### Presentations:
 Conferences
