@@ -53,11 +53,11 @@ To be Submitted
 
 - Wang, H. and Habiger, J., Statistical Methods for Pathogen Detection and E-probe Selection with Microbe Finder Data.
 
-Initialization
-
 - Wang, H. and Habiger, J., Efficient Classification Methods for Pathogen Detection with E-probe Selection (ECMEpS) (R package). 
 
-- Wang, H. and Habiger, J., Classification Methods with the Sparse Group Lasso for Pathogen Detection and E-probe Selection with Microbe Finder Data.
+Initialization
+
+- Wang, H. and Habiger, J., Classification Methods with the Sparse Group Lasso Model for Pathogen Detection and Variable Selection for Sparse Count Data.
 
 ### Presentations:
 Conferences
