@@ -18,7 +18,7 @@ Oklahoma State University
 
 Stillwater, OK, 74078
 
-[Curriculum Vitae](https://github.com/user-attachments/files/20683522/Huizi_s_CV.pdf)
+[Curriculum Vitae](https://github.com/user-attachments/files/20683550/Huizi_s_CV.pdf)
 
 [Research Statement]()
 
