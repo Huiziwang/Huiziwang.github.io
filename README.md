@@ -39,11 +39,11 @@ Efficient Classification Methods for Sparse High-Dimensional Count Data with Mod
 - Improves the e-probe curation procedure and is flexible and computationally efficient by allowing for variable/e-probe selection to regulate the area under the receiver operating characteristics curve.
 
 ### Publications:
-- [Nascimento, D. M., Bodaghi, S., Wang, H., Ribeiro-Junior, M. R., Campos, R., Dang, T., ... and Cardwell, K. F. (2025). Development and Validation of a Suite of E-Probes for Electronic Diagnostic Nucleic Acid Analysis (EDNA) for 20 Graft-Transmissible Pathogens of Citrus Using MiFi® and Blind Ring Testing Among Novice Users. PhytoFrontiers, (ja).](https://apsjournals.apsnet.org/doi/epdf/10.1094/PHYTOFR-12-24-0140-FI)
+- [Nascimento, D.M., Bodaghi, S., Wang, H., Ribeiro-Junior, M.R., Campos, R., Dang, T., Osman, F., Habiger, J., Espindola, A.S., Vidalakis, G. and Cardwell, K.F., 2025. Development and Validation of a Suite of E-Probes for Electronic Diagnostic Nucleic Acid Analysis (EDNA) for 20 Graft-Transmissible Pathogens of Citrus Using MiFi® and Blind Ring Testing Among Novice Users. PhytoFrontiers, (ja).](https://apsjournals.apsnet.org/doi/epdf/10.1094/PHYTOFR-12-24-0140-FI)
 
-- [Bodaghi, S., Dang, T., Wang, H., Espindola, A. S., Craddock, I. L., Osman, F., Ribeiro, M., Nascimento, D. D., Mitra, A., Habiger, J., Cardwell, K. and Vidalakis, G. (2024). E-probes targeting citrus pathogens as a new diagnostic standard. Citrograph Magazine Archive - Citrus Research Board, Spring 2024 Issue Vol. 15, No. 2: 44-47.](https://citrus-research-board-static.sfo2.digitaloceanspaces.com/citrograph/pdf/CRB-Citrograph-Mag-Q2-Spring-2024-Web.pdf)
+- [Bodaghi, S., Dang, T., \textbf{Wang, H.}, Espindola, A. S., Craddock, I. L., Osman, F., Ribeiro, M., Nascimento, D. D., Mitra, A., Habiger, J., Cardwell, K. and Vidalakis, G., 2024. E-probes targeting citrus pathogens as a new diagnostic standard. Citrograph Magazine Archive - Citrus Research Board, Spring 2024 Issue Vol. 15, No. 2: 44-47.](https://citrus-research-board-static.sfo2.digitaloceanspaces.com/citrograph/pdf/CRB-Citrograph-Mag-Q2-Spring-2024-Web.pdf)
 
-- [Dang, T., Wang, H., Espindola, A. S., Habiger, J., Vidalakis, G., and Cardwell, K. (2023). Development and statistical validation of e-probe diagnostic nucleic acid analysis (EDNA) assays for the detection of citrus pathogens from raw high-throughput sequencing data. PhytoFrontiers™, 3(1), 113-123.](https://apsjournals.apsnet.org/doi/epdf/10.1094/PHYTOFR-05-22-0047-FI)
+- [Dang, T., \textbf{Wang, H.}, Espindola, A.S., Habiger, J., Vidalakis, G. and Cardwell, K., 2023. Development and statistical validation of e-probe diagnostic nucleic acid analysis (EDNA) assays for the detection of citrus pathogens from raw high-throughput sequencing data. PhytoFrontiers™, 3(1), pp.113-123.](https://apsjournals.apsnet.org/doi/epdf/10.1094/PHYTOFR-05-22-0047-FI)
 
 ### Works in Progress:
 
