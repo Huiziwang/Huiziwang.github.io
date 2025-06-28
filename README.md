@@ -34,10 +34,6 @@ Efficient Classification Methods for Sparse High-Dimensional Count Data with Mod
 
 - Advisor: Dr. Joshua D Habiger.
 
-### Patent:
-
-- [Cardwell, K. F., Espindola, A. S., Dang, T., Habiger, J. D., and Wang, H. (2023). System and method for interactive pathogen detection. US Patent No.: US20230360731A1.](https://patents.google.com/patent/US20230360731A1)
-
 ### Publications:
 - [Nascimento, D. M., Bodaghi, S., Wang, H., Ribeiro-Junior, M. R., Campos, R., Dang, T., ... and Cardwell, K. F. (2025). Development and Validation of a Suite of E-Probes for Electronic Diagnostic Nucleic Acid Analysis (EDNA) for 20 Graft-Transmissible Pathogens of Citrus Using MiFi® and Blind Ring Testing Among Novice Users. PhytoFrontiers, (ja).](https://apsjournals.apsnet.org/doi/epdf/10.1094/PHYTOFR-12-24-0140-FI)
 
@@ -76,3 +72,6 @@ Seminars
 
 - ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data", Invited Talk, Department of Statistics, Oklahoma State University (April 2024).](https://github.com/user-attachments/files/20270582/Seminar_Fall_2024.pdf)
 
+### Patent:
+
+- [Cardwell, K. F., Espindola, A. S., Dang, T., Habiger, J. D., and Wang, H. (2023). System and method for interactive pathogen detection. US Patent No.: US20230360731A1.](https://patents.google.com/patent/US20230360731A1)
