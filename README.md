@@ -74,4 +74,4 @@ Seminars
 
 ### Patent:
 
-- [Cardwell, K. F., Espindola, A. S., Dang, T., Habiger, J. D., and Wang, H. (2023). System and method for interactive pathogen detection. US Patent No.: US20230360731A1.](https://patents.google.com/patent/US20230360731A1)
+- [Cardwell, K. F., Espindola, A. S., Dang, T., Habiger, J. D., and Wang, H., 2023. System and method for interactive pathogen detection. US Patent No. US20230360731A1.](https://patents.google.com/patent/US20230360731A1)
