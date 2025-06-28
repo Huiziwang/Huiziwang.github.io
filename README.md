@@ -34,7 +34,7 @@ Efficient Classification Methods for Sparse High-Dimensional Count Data with Mod
   
 - Provides new methods for high-dimensional classification analysis with count data that are computationally efficient, can model zero-inflation and over-dispersion, and allow for model and/or variable selection while avoiding overfitting. (No one method addresses all of these issues simultaneously.)
 
-- Simplifies the Microbe Finder$\textsuperscript{\tiny{\circledR}}$ data generation procedure by allowing for variable/e-probe selection.
+- Simplifies the Microbe Finder data generation procedure by allowing for variable/e-probe selection. 
 
 - Improves the e-probe curation procedure and is flexible and computationally efficient by allowing for variable/e-probe selection to regulate the area under the receiver operating characteristics curve.
 
