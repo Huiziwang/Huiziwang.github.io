@@ -65,6 +65,7 @@ Initialization
 - ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data", Invited Talk, Department of Statistics, Oklahoma State University (April 2024).](https://github.com/user-attachments/files/20270582/Seminar_Fall_2024.pdf)
 
 - ["Classification Methods for High-Dimensional Microbe Finder Data", Invited Talk, NCCC170 Annual Meeting, Oklahoma State University (June 2022).](https://github.com/user-attachments/files/20270584/Conference.pdf)
+
 ### Other Presentations:
 - ["Simple, Computational Efficiency and Quality Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data", Poster Presentation, Department of Statistics 50th Anniversary Ceremony, Department of Statistics, Oklahoma State University (September 2024).](https://github.com/user-attachments/files/20270588/Poster.Department.Anniversary.pdf)
 
