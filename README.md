@@ -32,11 +32,9 @@ Efficient Classification Methods for Sparse High-Dimensional Count Data with Mod
 
 - Advisor: Dr. Joshua D Habiger.
   
-- Provides new methods for high-dimensional classification analysis with count data that are computationally efficient, can model zero-inflation and over-dispersion, and allow for model and/or variable selection while avoiding overfitting. (No one method addresses all of these issues simultaneously.)
+- Provides new methods for high-dimensional classification analysis with count data that are computationally efficient, can model zero-inflation and over-dispersion, and allow for model/variable selection while avoiding overfitting.
 
-- Simplifies the Microbe Finder data generation procedure by allowing for variable/e-probe selection. 
-
-- Improves the e-probe curation procedure and is flexible and computationally efficient by allowing for variable/e-probe selection to regulate the area under the receiver operating characteristics curve.
+- The model/variable selection process of our methods simplifies the Microbe Finder data generation procedure. 
 
 ### Publications:
 - [Nascimento, D.M., Bodaghi, S., Wang, H., Ribeiro-Junior, M.R., Campos, R., Dang, T., Osman, F., Habiger, J., Espindola, A.S., Vidalakis, G. and Cardwell, K.F., 2025. Development and Validation of a Suite of E-Probes for Electronic Diagnostic Nucleic Acid Analysis (EDNA) for 20 Graft-Transmissible Pathogens of Citrus Using MiFi® and Blind Ring Testing Among Novice Users. PhytoFrontiers, (ja).](https://apsjournals.apsnet.org/doi/epdf/10.1094/PHYTOFR-12-24-0140-FI)
