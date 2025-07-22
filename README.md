@@ -45,6 +45,10 @@ Efficient Classification Methods for Sparse High-Dimensional Count Data with Mod
 
 - [Dang, T., Wang, H., Espindola, A.S., Habiger, J., Vidalakis, G. and Cardwell, K., 2023. Development and statistical validation of e-probe diagnostic nucleic acid analysis (EDNA) assays for the detection of citrus pathogens from raw high-throughput sequencing data. PhytoFrontiers™, 3(1), pp.113-123.](https://apsjournals.apsnet.org/doi/epdf/10.1094/PHYTOFR-05-22-0047-FI)
 
+### Patent:
+
+- [Cardwell, K. F., Espindola, A. S., Dang, T., Habiger, J. D., and Wang, H., 2023. System and method for interactive pathogen detection. US Patent No. US20230360731A1.](https://patents.google.com/patent/US20230360731A1)
+
 ### Works in Progress:
 
 To be Submitted
@@ -74,7 +78,3 @@ Initialization
 - ["Comparison of Classification Methods for Pathogen Detection with High-Dimensional Microbe Finder Data", Poster Presentation, Oklahoma Conference for Statistics, Biostatistics, and Data Science, The University of Oklahoma (October 2023).](https://github.com/user-attachments/files/20270622/Poster--OSU.Huizi.wang.2023.pdf)
 
 - ["Classification Methods for High-Dimensional Microbe Finder Data", Poster Presentation, Oklahoma Conference for Statistics, Biostatistics, and Data Science, The University of Oklahoma (October 2022).](https://github.com/user-attachments/files/20270623/Poster.New--OSU.Huizi.wang.pdf)
-
-### Patent:
-
-- [Cardwell, K. F., Espindola, A. S., Dang, T., Habiger, J. D., and Wang, H., 2023. System and method for interactive pathogen detection. US Patent No. US20230360731A1.](https://patents.google.com/patent/US20230360731A1)
