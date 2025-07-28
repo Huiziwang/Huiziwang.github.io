@@ -20,7 +20,7 @@ Stillwater, OK, 74078
 
 [Curriculum Vitae](https://github.com/user-attachments/files/21474064/Huizi_s_CV.pdf)
 
-[Research Statement](https://github.com/user-attachments/files/21375648/Research_Statement_Huizi.pdf)
+[Research Statement](https://github.com/user-attachments/files/21476348/Huizi_s_Research_Statement.pdf)
 
 ### Research Interests:
 
